@@ -1,1 +1,2 @@
-# web-member
+# php-pdo-registration-system
+php-pdo-registration-system
